@@ -81,7 +81,7 @@ button:hover{
 
 
 
-@media only screen and (max-width:360px){
+/* @media only screen and (max-width:360px){
 body{
     background-color: rgb(226, 28, 28);
     max-height: 100%;
@@ -134,4 +134,4 @@ button:hover{
     margin-right: 20px;
 }
 
-}
+} */
